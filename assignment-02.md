@@ -75,7 +75,8 @@ and push to your github repository.
 .  
   * $W(n)= W(n-1)+n^c$, with $c\geq 1$
   * depth is n
-  * work is O(n^(c+1))
+  * 
+  * work is O(n^(c)*n)=O(n^(c+1))
 .  
 .  
 .  
